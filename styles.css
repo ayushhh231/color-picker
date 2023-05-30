@@ -1,0 +1,67 @@
+#colorText{
+    margin-left: 40%;
+    transition: 2s;
+    
+}
+
+#container-cc{
+    margin: 15% 32%;
+}
+#container-cc-1{
+    display: flex;
+}
+.container-cc1{
+    background-color: #00C4FF;
+    height: 100px;
+    width: 100px;
+    margin: 2%;
+    border-radius: 10%;
+    cursor: pointer;
+    
+}
+.container-cc2{
+    background-color: #116D6E;
+    height: 100px;
+    width: 100px;
+    margin: 2%;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.container-cc3{
+    background-color: #526D82;
+    height: 100px;
+    width: 100px;
+    margin: 2%;
+    border-radius: 10%;
+    cursor: pointer;
+}
+#container-cc-2{
+    display: flex;
+}
+.container-cc4{
+    background-color: #FFE569;
+    height: 100px;
+    width: 100px;
+    margin: 2%;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.container-cc5{
+    background-color: #DB005B;
+    height: 100px;
+    width: 100px;
+    margin: 2%;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.container-cc6{
+    background-color: #212A3E;
+    height: 100px;
+    width: 100px;
+    margin: 2%;
+    border-radius: 10%;
+    cursor: pointer;
+}
+body{
+    background-color: black;
+}
